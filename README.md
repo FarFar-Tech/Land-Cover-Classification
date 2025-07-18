@@ -1,7 +1,17 @@
 # Land-Cover-Classification
 This repo is about using DL-based models to predict the class of each pixel from multispectral satellite images. 
 
-<img width="1150" height="818" alt="image" src="https://github.com/user-attachments/assets/b66e3b71-4270-4bb2-8080-5f1417afa058" />
+### 🌍 Study Area
+
+The data used in this project focuses on **Kerinci Regency**, located in **Jambi Province, Sumatra, Indonesia**. The region includes ecologically significant areas such as:
+
+- Tropical forests
+- Agricultural lands
+- Urban expansion zones
+
+Satellite data was clipped to a region of interest (ROI) covering parts of the **Kerinci Seblat National Park** and surrounding areas, known for its rich biodiversity and dynamic land cover changes.
+
+<img width="723" height="688" alt="image" src="https://github.com/user-attachments/assets/f601fae4-5e5f-47a4-abe7-484fdd962c3e" />
 
 ## 📂 Data Sources
 
@@ -70,3 +80,4 @@ This section describes the preprocessing steps used to prepare satellite imagery
 - A set of **clean, labeled patches** ready for training a U-Net model.
 - Normalized inputs and labels.
 - Tools for both visual verification and further analysis.
+<img width="1150" height="818" alt="image" src="https://github.com/user-attachments/assets/b66e3b71-4270-4bb2-8080-5f1417afa058" />
