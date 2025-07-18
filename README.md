@@ -1,6 +1,9 @@
 # Land-Cover-Classification
 This repo is about using DL-based models to predict the class of each pixel from multispectral satellite images. 
 
+<img width="208" height="380" alt="image" src="https://github.com/user-attachments/assets/b8e61c55-f99a-4aa3-8fe8-d0af15d3f9f3" />
+
+
 ## 📂 Data Sources
 
 This project uses satellite imagery and labeled land cover data to train a U-Net model for pixel-wise classification. The data is composed of:
