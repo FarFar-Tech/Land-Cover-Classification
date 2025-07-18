@@ -3,8 +3,6 @@ This repo is about using DL-based models to predict the class of each pixel from
 
 <img width="1150" height="818" alt="image" src="https://github.com/user-attachments/assets/b66e3b71-4270-4bb2-8080-5f1417afa058" />
 
-
-
 ## 📂 Data Sources
 
 This project uses satellite imagery and labeled land cover data to train a U-Net model for pixel-wise classification. The data is composed of:
