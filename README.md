@@ -20,7 +20,7 @@ This project uses satellite imagery and labeled land cover data to train a U-Net
 - **Land Cover Labels (Ground Truth)**  
   - File: `LC_Image_v1.tif`  
   - Description: A raster image in which each pixel value represents a specific land cover class (e.g., forest, urban, water).  
-  - The ground truth labels are shown in the figure below:
+  - The ground truth labels are displayed in the figure below.
   <img width="1150" height="818" alt="image" src="https://github.com/user-attachments/assets/b66e3b71-4270-4bb2-8080-5f1417afa058" />
 
 - **Land Cover Metadata**  
