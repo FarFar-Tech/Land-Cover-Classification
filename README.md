@@ -1,7 +1,8 @@
 # Land-Cover-Classification
 This repo is about using DL-based models to predict the class of each pixel from multispectral satellite images. 
 
-<img width="208" height="380" alt="image" src="https://github.com/user-attachments/assets/b8e61c55-f99a-4aa3-8fe8-d0af15d3f9f3" />
+<img width="1150" height="818" alt="image" src="https://github.com/user-attachments/assets/b66e3b71-4270-4bb2-8080-5f1417afa058" />
+
 
 
 ## 📂 Data Sources
