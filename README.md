@@ -20,7 +20,8 @@ This project uses satellite imagery and labeled land cover data to train a U-Net
 - **Land Cover Labels (Ground Truth)**  
   - File: `LC_Image_v1.tif`  
   - Description: A raster image in which each pixel value represents a specific land cover class (e.g., forest, urban, water).  
-  - Source: Google Earth Engine export
+  - The ground truth labels are shown in the figure below:
+  <img width="1150" height="818" alt="image" src="https://github.com/user-attachments/assets/b66e3b71-4270-4bb2-8080-5f1417afa058" />
 
 - **Land Cover Metadata**  
   - File: `lc.json`  
@@ -34,7 +35,7 @@ This project uses satellite imagery and labeled land cover data to train a U-Net
 
 - **(Optional) ALOS PALSAR Radar Imagery**  
   - File: `Palsar_Kerinci_2023_v1.tif`  
-  - Description: Radar backscatter data that can be integrated with optical imagery to enhance classification performance (not yet fully integrated in current pipeline).
+  - Description: Radar backscatter data that can be integrated with optical imagery to enhance classification performance (not yet fully integrated in the current pipeline).
 
 ---
 
@@ -80,4 +81,4 @@ This section describes the preprocessing steps used to prepare satellite imagery
 - A set of **clean, labeled patches** ready for training a U-Net model.
 - Normalized inputs and labels.
 - Tools for both visual verification and further analysis.
-<img width="1150" height="818" alt="image" src="https://github.com/user-attachments/assets/b66e3b71-4270-4bb2-8080-5f1417afa058" />
+
